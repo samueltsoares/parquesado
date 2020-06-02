@@ -1,0 +1,13 @@
+C:\Documents and Settings\samu\Os meus documentos\SharpDevelop Projects\parquessadoCidade1\parquessadoCidade1\bin\Debug\parquessadoCidade1.exe
+C:\Documents and Settings\samu\Os meus documentos\SharpDevelop Projects\parquessadoCidade1\parquessadoCidade1\bin\Debug\parquessadoCidade1.pdb
+C:\Documents and Settings\samu\Os meus documentos\SharpDevelop Projects\parquessadoCidade1\parquessadoCidade1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\samu\Os meus documentos\SharpDevelop Projects\parquessadoCidade1\parquessadoCidade1\obj\x86\Debug\parquessadoCidade1.exe
+C:\Documents and Settings\samu\Os meus documentos\SharpDevelop Projects\parquessadoCidade1\parquessadoCidade1\obj\x86\Debug\parquessadoCidade1.pdb
+C:\Users\Luís Trindade\Documents\My Dropbox\ARC projecto\parquessadoCidade1\parquessadoCidade1\obj\x86\Debug\parquessadoCidade1.exe
+C:\Users\Luís Trindade\Documents\My Dropbox\ARC projecto\parquessadoCidade1\parquessadoCidade1\obj\x86\Debug\parquessadoCidade1.pdb
+C:\Users\strindades\Desktop\ARC projecto\parquessadoCidade1\parquessadoCidade1\bin\Debug\parquessadoCidade1.exe
+C:\Users\strindades\Desktop\ARC projecto\parquessadoCidade1\parquessadoCidade1\bin\Debug\parquessadoCidade1.pdb
+C:\Users\strindades\Desktop\ARC projecto\parquessadoCidade1\parquessadoCidade1\obj\x86\Debug\parquessadoCidade1.csprojAssemblyReference.cache
+C:\Users\strindades\Desktop\ARC projecto\parquessadoCidade1\parquessadoCidade1\obj\x86\Debug\parquessadoCidade1.csproj.CoreCompileInputs.cache
+C:\Users\strindades\Desktop\ARC projecto\parquessadoCidade1\parquessadoCidade1\obj\x86\Debug\parquessadoCidade1.exe
+C:\Users\strindades\Desktop\ARC projecto\parquessadoCidade1\parquessadoCidade1\obj\x86\Debug\parquessadoCidade1.pdb

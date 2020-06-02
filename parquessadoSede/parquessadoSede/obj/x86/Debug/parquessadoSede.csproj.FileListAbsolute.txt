@@ -1,0 +1,13 @@
+C:\Documents and Settings\samu\Os meus documentos\SharpDevelop Projects\parquessadoSede\parquessadoSede\bin\Debug\parquessadoSede.exe
+C:\Documents and Settings\samu\Os meus documentos\SharpDevelop Projects\parquessadoSede\parquessadoSede\bin\Debug\parquessadoSede.pdb
+C:\Documents and Settings\samu\Os meus documentos\SharpDevelop Projects\parquessadoSede\parquessadoSede\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\samu\Os meus documentos\SharpDevelop Projects\parquessadoSede\parquessadoSede\obj\x86\Debug\parquessadoSede.exe
+C:\Documents and Settings\samu\Os meus documentos\SharpDevelop Projects\parquessadoSede\parquessadoSede\obj\x86\Debug\parquessadoSede.pdb
+C:\Users\Luís Trindade\Documents\My Dropbox\ARC projecto\parquessadoSede\parquessadoSede\obj\x86\Debug\parquessadoSede.exe
+C:\Users\Luís Trindade\Documents\My Dropbox\ARC projecto\parquessadoSede\parquessadoSede\obj\x86\Debug\parquessadoSede.pdb
+C:\Users\strindades\Desktop\ARC projecto\parquessadoSede\parquessadoSede\bin\Debug\parquessadoSede.exe
+C:\Users\strindades\Desktop\ARC projecto\parquessadoSede\parquessadoSede\bin\Debug\parquessadoSede.pdb
+C:\Users\strindades\Desktop\ARC projecto\parquessadoSede\parquessadoSede\obj\x86\Debug\parquessadoSede.csprojAssemblyReference.cache
+C:\Users\strindades\Desktop\ARC projecto\parquessadoSede\parquessadoSede\obj\x86\Debug\parquessadoSede.csproj.CoreCompileInputs.cache
+C:\Users\strindades\Desktop\ARC projecto\parquessadoSede\parquessadoSede\obj\x86\Debug\parquessadoSede.exe
+C:\Users\strindades\Desktop\ARC projecto\parquessadoSede\parquessadoSede\obj\x86\Debug\parquessadoSede.pdb

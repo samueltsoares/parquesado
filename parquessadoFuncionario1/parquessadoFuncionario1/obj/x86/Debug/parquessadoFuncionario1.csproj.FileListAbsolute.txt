@@ -1,0 +1,13 @@
+C:\Documents and Settings\samu\Os meus documentos\SharpDevelop Projects\parquessadoFuncionario1\parquessadoFuncionario1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\samu\Os meus documentos\SharpDevelop Projects\parquessadoFuncionario1\parquessadoFuncionario1\bin\Debug\parquessadoFuncionario1.exe
+C:\Documents and Settings\samu\Os meus documentos\SharpDevelop Projects\parquessadoFuncionario1\parquessadoFuncionario1\bin\Debug\parquessadoFuncionario1.pdb
+C:\Documents and Settings\samu\Os meus documentos\SharpDevelop Projects\parquessadoFuncionario1\parquessadoFuncionario1\obj\x86\Debug\parquessadoFuncionario1.exe
+C:\Documents and Settings\samu\Os meus documentos\SharpDevelop Projects\parquessadoFuncionario1\parquessadoFuncionario1\obj\x86\Debug\parquessadoFuncionario1.pdb
+C:\Users\Luís Trindade\Documents\My Dropbox\ARC projecto\parquessadoFuncionario1\parquessadoFuncionario1\obj\x86\Debug\parquessadoFuncionario1.exe
+C:\Users\Luís Trindade\Documents\My Dropbox\ARC projecto\parquessadoFuncionario1\parquessadoFuncionario1\obj\x86\Debug\parquessadoFuncionario1.pdb
+C:\Users\strindades\Desktop\ARC projecto\parquessadoFuncionario1\parquessadoFuncionario1\bin\Debug\parquessadoFuncionario1.exe
+C:\Users\strindades\Desktop\ARC projecto\parquessadoFuncionario1\parquessadoFuncionario1\bin\Debug\parquessadoFuncionario1.pdb
+C:\Users\strindades\Desktop\ARC projecto\parquessadoFuncionario1\parquessadoFuncionario1\obj\x86\Debug\parquessadoFuncionario1.csprojAssemblyReference.cache
+C:\Users\strindades\Desktop\ARC projecto\parquessadoFuncionario1\parquessadoFuncionario1\obj\x86\Debug\parquessadoFuncionario1.csproj.CoreCompileInputs.cache
+C:\Users\strindades\Desktop\ARC projecto\parquessadoFuncionario1\parquessadoFuncionario1\obj\x86\Debug\parquessadoFuncionario1.exe
+C:\Users\strindades\Desktop\ARC projecto\parquessadoFuncionario1\parquessadoFuncionario1\obj\x86\Debug\parquessadoFuncionario1.pdb
